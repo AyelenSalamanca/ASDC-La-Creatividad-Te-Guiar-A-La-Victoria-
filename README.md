@@ -1,14 +1,14 @@
 # 🚀 ASDC – La Creatividad Te Guiará A La Victoria
 
-Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está diseñado para [Papeleria virtual al gusto del cliente].
+Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está diseñado para (Papeleria virtual al gusto del cliente).
 
 ---
 
 ## 👥 Integrantes del Equipo
 * ✨ **Ayelén Salamanca**
 * 🛠️ **Caleb Zambrano**
-* 🎨 **Stiven Rodriguez**
-* 🧠 **Daniel Rodriguez**
+* 🎨 **Stiven Rodríguez**
+* 🧠 **Daniel Rodríguez**
 * 📝 **Samuel Bonilla**
 
 ## 📂 Estructura del Proyecto
