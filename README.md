@@ -5,7 +5,7 @@ Bienvenido al repositorio oficial del proyecto **ASDC**. Este sistema está dise
 ---
 
 ## 👥 Integrantes del Equipo
-* ✨ **Ayelén Salamanca** - [Tu Rol / Desarrolladora]
+* ✨ **Ayelén Salamanca**
 * 🛠️ **Caleb Zambrano**
 * 🎨 **Stiven Rodriguez**
 * 🧠 **Daniel Rodriguez**
